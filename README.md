@@ -4,7 +4,7 @@ Generate realistic furniture images from hand-drawn sketches using ControlNet an
 
 # 📌 Overview
 
-This project implements a sketch-to-image generation system tailored for furniture design. By leveraging ControlNet with Stable Diffusion, the model can turn simple hand-drawn furniture sketches into high-quality, photorealistic renders — ideal for designers, architects, and furniture manufacturers.
+This project implements a sketch-to-image generation system tailored for furniture design. By leveraging ControlNet with Stable Diffusion, the model can turn simple hand-drawn furniture sketches into realistic image.
 
 # ✨ Features
 
