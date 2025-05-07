@@ -64,7 +64,8 @@ These comparisons are saved in the inference_results/ folder, making it easy to 
 
 ###  🧪 Sample Comparison
   ![image](https://github.com/user-attachments/assets/4aa3a851-d867-4513-8797-34d9634198af)
-  ![image](https://github.com/user-attachments/assets/e20e9c7c-c3a3-4dd8-95d8-f7eaedb3169e)
+  ![image](https://github.com/user-attachments/assets/7c448592-2d10-42a0-bad8-576d7d444f5a)
+
 
 # 🐞 Known Issues
 - The model usually take several hours to train .
